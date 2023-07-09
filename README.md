@@ -20,7 +20,7 @@ News Feed Page: Once authenticated, users are directed to the news feed page. Th
 Installation
 To install and set up the project, follow these steps:
 
-Clone the project repository from GitHub: git clone https://github.com/your-username/your-repository.git.
+Clone the project repository from GitHub: git clone https://github.com/Uddipan12345/Twiddle.git.
 Navigate to the project directory: cd your-repository.
 Open the project in a code editor of your choice.
 Usage
